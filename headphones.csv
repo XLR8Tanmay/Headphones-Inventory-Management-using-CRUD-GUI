@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Model_Number,Brand,Connectivity_Technology,Colour,Fit_Type,Stock,Item_Weight,Rating,Price
+1,Apple Airpods Max,MGYH3AM/A,Apple,Wireless,Space Gray,Over-ear,150,13.57 oz,5,59900
+2,Sony WH-1000XM4,WH1000XM4/B,Sony,Wireless,Silver,Over-ear,394,255.15 g,4.7,24990
+3,Boult Audio AirBass,AirBassTru5ivePro,Boult Audio,Wireless,Black,Earbuds,7645,85 g,3.8,2499
+4,Beats Solo Pro,MRJ82ZM/A,Beats by Dr. Dre,Wireless,Ivory,On-ear,49,9.42 oz,4.6,25900
+5,JBL Tune 500,JBLT500BLU,JBL,Wired,Dark Blue,On-ear,6527,148 g,3.9,2239
+6,Bose Soundlink,741158-0020,Bose,Wireless,Matte White,Around-ear,96,200 g,4.2,18999
+7,Sennheiser CX-180 ,CX180StreetII,Sennheiser,Wired,Black,In-ear,7000,68 g,4.1,849
+8,Sennheiser HD 458BT,HD458BT,Sennheiser,Wireless,Black and Red,Over-ear,492,238 g,3.9,7990
+9,Mi Dual Driver,YDSDQ01WM,Xiaomi,Wired,Black and Blue,In-ear,9801,18 g,4,799
+10,Marshall Major III,MM4092186,Marshall,Wireless,Black,On-ear,29,178 g,4.3,7399
+11,Boat Rockerz 450,Rockerz450,Boat,Wired,Luscious Black,On-ear,7200,200 g,4,1499
+12,Sony MDR-XB450AP,MDRXB450AP,Sony,Wired,Blue,On-ear,6294,185 g,4.3,1999
+13,Audio Technica ATH-M50x,ATHM50X,Audio Technica,Wired,Black,Over-ear,728,285 g,4.6,11300
+14,Sony MDR-AS210,MDRAS210,Sony,Wireless,Blue,Open-ear,6382,18 g,3.9,699
+15,Infinity Glide 120,Glide120,Infinity,Wireless,Metallic Grey,In-ear,9348,195 g,3.8,1199
